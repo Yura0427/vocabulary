@@ -1,0 +1,116 @@
+{
+  "words": [
+    {
+      "word": "dog",
+      "translate": "пес",
+      "id": 1
+    },
+    {
+      "word": "cat",
+      "translate": "кіт",
+      "id": 2
+    },
+    {
+      "word": "fish",
+      "translate": "риба",
+      "id": 3
+    },
+    {
+      "word": "pig",
+      "translate": "свиня",
+      "id": 4
+    },
+    {
+      "word": "goat",
+      "translate": "коза",
+      "id": 5
+    },
+    {
+      "word": "cow",
+      "translate": "корова",
+      "id": 6
+    },
+    {
+      "word": "horse",
+      "translate": "кінь",
+      "id": 7
+    },
+    {
+      "word": "bed",
+      "translate": "ліжко",
+      "id": 8
+    },
+    {
+      "word": "sofa",
+      "translate": "диван",
+      "id": 9
+    },
+    {
+      "word": "window",
+      "translate": "вікно",
+      "id": 10
+    },
+    {
+      "word": "word",
+      "translate": "слово",
+      "id": 11
+    },
+    {
+      "word": "alphabet",
+      "translate": "алфавіт",
+      "id": 12
+    },
+    {
+      "word": "translation",
+      "translate": "переклад",
+      "id": 13
+    },
+    {
+      "word": "new",
+      "translate": "новий",
+      "id": 14
+    },
+    {
+      "word": "old",
+      "translate": "старий",
+      "id": 15
+    },
+    {
+      "word": "true",
+      "translate": "правда",
+      "id": 16
+    },
+    {
+      "word": "false",
+      "translate": "помилковий",
+      "id": 17
+    },
+    {
+      "word": "green",
+      "translate": "зелений",
+      "id": 18
+    },
+    {
+      "word": "white",
+      "translate": "білий",
+      "id": 19
+    },
+    {
+      "word": "blue",
+      "translate": "блакитний",
+      "id": 20
+    }
+  ],
+  "statistics": [
+    {
+      "result": 30,
+      "date": "03.10.2022, 14:18:32",
+      "id": 1
+    },
+    {
+      "result": 30,
+      "date": "03.10.2022, 14:18:50",
+      "id": 2
+    }
+  ]
+}
